@@ -9,9 +9,9 @@ Este é um aplicativo React Native de tela única desenvolvido com o objetivo de
 
 ### Tecnologias utilizadas
 
--React Native
--Expo
--Styled Components
+- React Native
+- Expo
+- Styled Components
 
 ### Telas
 
