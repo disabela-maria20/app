@@ -26,7 +26,7 @@ Para executar o aplicativo, siga os passos abaixo:
 
 1. Certifique-se de ter o ambiente de desenvolvimento configurado para o React Native e o Expo
 2. Abra o terminal e navegue até a pasta do projeto
-3. Instale as dependências do projeto utilizando o comando ``npm install`` ou `` yarn install``
+3. Instale as dependências do projeto utilizando o comando ``npm install`` ou ``yarn install``
 4. Execute o aplicativo com o comando ``expo start`` ou ``yarn start``
 5. O Expo irá abrir uma página no seu navegador com um QR code
 6. Baixe o aplicativo Expo Go na sua loja de aplicativos (Android ou iOS)
