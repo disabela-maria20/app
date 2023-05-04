@@ -58,9 +58,7 @@ const Home = () => {
         </TouchableWithoutFeedback>
       </S.ContainerInput>
       {filteredData.length === 0 ? (
-        <View style={{ flex: 1, alignItems: 'center', justifyContent: 'center' }}>
-          <Text>Nenhum item encontrado.</Text>
-        </View>
+        <S.TextUnd>Nenhum campeão encontrado :(</S.TextUnd>
       ) : (
         <FlatList
           data={shuffledData.slice(0, 10)}

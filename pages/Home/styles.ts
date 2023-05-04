@@ -1,9 +1,9 @@
-import styled from 'styled-components/native';
+import styled from "styled-components/native";
 
 export const Container = styled.View`
   flex: 1;
   background-color: #051038;
-  padding: 0 5% ;
+  padding: 0 5%;
 `;
 
 export const Title = styled.Text`
@@ -12,7 +12,7 @@ export const Title = styled.Text`
   text-align: center;
   padding: 15% 0 10%;
   font-weight: 700;
-`
+`;
 
 export const ContainerInput = styled.View`
   background-color: #2d3758;
@@ -22,9 +22,20 @@ export const ContainerInput = styled.View`
   align-items: center;
   padding: 0 5%;
   margin-bottom: 10%;
-`
+`;
 export const Input = styled.TextInput`
   color: #fff;
   text-decoration: none;
-  padding:  0 35px 0 15px;
-`
+  padding: 0 35px 0 15px;
+`;
+
+export const TextUnd = styled.Text`
+  color: #fff;
+  font-size: 18px;
+  text-align: center;
+`;
+
+export const ContainerUnd = styled.Text`
+  align-items: center;
+  justify-content: center;
+`;
