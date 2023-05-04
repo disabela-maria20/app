@@ -15,8 +15,8 @@ Este é um aplicativo React Native de tela única desenvolvido com o objetivo de
 
 ### Telas
 
-![](./assets/Screenshot_1683147762.png)
-![](./assets/Screenshot_1683149242.png)
+[!(./assets/Screenshot_1683148031.png)[1]][1]
+[!(./assets/Screenshot_1683149242.png)[1]][1]
 
 ### Como executar o aplicativo
 
